@@ -15,6 +15,7 @@ collections:
   - name: "landing-page"
     label: "landing-page"
     folder: "src/pages/landing-page"
+    format: "json"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
