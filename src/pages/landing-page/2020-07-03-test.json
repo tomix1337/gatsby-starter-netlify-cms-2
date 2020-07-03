@@ -1,0 +1,12 @@
+{
+  "templateKey": "blog-post",
+  "date": "2020-07-03T08:58:12.431Z",
+  "title": "test",
+  "description": "test",
+  "featuredpost": true,
+  "featuredimage": "/img/coffee-gear.png",
+  "body": "sdadt",
+  "tags": [
+    "tag"
+  ]
+}
